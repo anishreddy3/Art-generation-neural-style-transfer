@@ -1,6 +1,13 @@
-# Art_generation_neural_style_transfer
+# Neural Style Transfer generated on Tensorflow
 
-Deep learning Specialization : Course 4 : Week 4 : Assignment 1
-Deep Learning & Art: Neural Style Transfer
+## Work from Deep learning Specialization : Course 4 : Week 4 : Assignment 1
+## Deep Learning & Art: Neural Style Transfer
 
-Implemented neural style transfer algorithm and generated novel artistic images using the algorithm.
+<p> Implemented neural style transfer algorithm and generated novel artistic images using the algorithm. <br>
+<p> This algorithm was created by Gatys et al. (2015) (https://arxiv.org/abs/1508.06576). <br>
+
+### Results:
+
+![](louvre_small.jpg) +  ![](monet.jpg) =  ![](out2.jpg)
+
+![](lion.jpg) +  ![](fire.jpg) =  ![](out2.jpg)
