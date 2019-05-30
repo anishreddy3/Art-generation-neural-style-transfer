@@ -8,9 +8,9 @@
 
 ### Results:
 
-![](louvre_small.jpg) +  ![](monet.jpg) =  ![](out.png)
-
-
 
 ![](lion.jpg) +  ![](fire.jpg) =  ![](fire_lion.png)
+
+
+![](louvre_small.jpg) +  ![](monet.jpg) =  ![](out.png)
 
