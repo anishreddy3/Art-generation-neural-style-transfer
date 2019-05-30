@@ -12,5 +12,5 @@
 
 
 
-![](lion.jpg) +  ![](fire.jpg) =  ![](out2.png)
+![](lion.jpg) +  ![](fire.jpg) =  ![](fire_lion.png)
 
