@@ -8,6 +8,9 @@
 
 ### Results:
 
-![](louvre_small.jpg) +  ![](monet.jpg) =  ![](out2.jpg)
+![](louvre_small.jpg) +  ![](monet.jpg) =  ![](out2.png)
+Content Image		Style Image		Generated Image
 
-![](lion.jpg) +  ![](fire.jpg) =  ![](out2.jpg)
+
+![](lion.jpg) +  ![](fire.jpg) =  ![](out.png)
+Content Image		Style Image	Generated Image
